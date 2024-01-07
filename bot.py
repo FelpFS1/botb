@@ -21,8 +21,8 @@ chrome_options.add_argument('--log-level=3')
 
 
 # Por informações do seu bot.########
-api_key = '5428580772:AAG6MYCzg_MHe4WXGBfUzNpY-1GO44H0N9Y'  # TOKEN DO SEU BOT
-chat_id = '-1001521312691' # ID DO CANAL pladix
+api_key = ''  # TOKEN DO SEU BOT
+chat_id = '' # ID DO CANAL 
 #####################################
 bot = telebot.TeleBot(api_key)
 
